@@ -13,4 +13,3 @@ class Solution(object):
                 return False
             cur_max = max(cur_max, dp[i])
         return True
-        
