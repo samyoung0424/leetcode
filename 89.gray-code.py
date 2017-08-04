@@ -13,4 +13,4 @@ class Solution(object):
 
 if __name__ == '__main__':
     sol = Solution()
-    print sol.grayCode(2)
+    print sol.grayCode(4)
